@@ -6,4 +6,4 @@ My name is Sina and I'm an iOS App Developer. I'm fast learner guy who loves swi
 
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/sina-rabiei-84142bba)
 
-![Sina's github stats](https://github-readme-stats.vercel.app/api?username=nssina&show_icons=true&theme=dark&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nssina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sina's github stats](https://github-readme-stats.vercel.app/api?username=nssina&show_icons=true&theme=dark&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nssina&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
