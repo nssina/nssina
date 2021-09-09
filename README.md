@@ -1,6 +1,6 @@
 ### Hi there 👋
 ----
-My name is Sina and I'm an iOS App Developer. I'm fast learner guy who loves Swift and iOS world. Currently I'm freelancer so if you have an open position for iOS App Developer contact me.
+My name is Sina and I'm an iOS App Developer. I'm fast learner guy who loves Swift and iOS world. Currently I'm freelancer so if you have an open position contact me.
 
 - 💬 Ask me about iOS programming and other stuff related
 
