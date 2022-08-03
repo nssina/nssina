@@ -2,7 +2,7 @@
 ----
 Fast learner guy who loves Swift and iOS world.
 
-- 💬 Ask me about iOS programming and other stuff related
+- 💬 Ask me about iOS and other related stuff
 
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/sina-rabiei)
 
