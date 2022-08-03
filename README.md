@@ -1,6 +1,6 @@
 ### Hi there 👋
 ----
-My name is Sina and I'm an iOS Engineer. I'm fast learner guy who loves Swift and iOS world.
+Fast learner guy who loves Swift and iOS world.
 
 - 💬 Ask me about iOS programming and other stuff related
 
